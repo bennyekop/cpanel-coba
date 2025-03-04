@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/bgspttest/public_html/rwtest.futurewedding.my.id
+ - export DEPLOYPATH=/home/secg5217/public_html/rwtest.securepage.my.id
  - /bin/cp index.php $DEPLOYPATH
